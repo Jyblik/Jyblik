@@ -1,6 +1,6 @@
-Hi! I'm Yuliia 👋
+# Hi! I'm Yuliia 👋
 
-Junior Python Backend Developer
+### Junior Python Backend Developer
 
 I'm focused on backend development with Python
 and currently building REST APIs using Django REST Framework
