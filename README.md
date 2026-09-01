@@ -20,7 +20,7 @@ and FastAPI.
 
 • Booking API - coming soon
 • Car Service API
-• Recipe API - ...
+• Culinary Hub API - ...
 
 📚 Currently learning
 
