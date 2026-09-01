@@ -14,19 +14,16 @@ and FastAPI.
 📞 Aiogram
 🗄️ SQL / PostgreSQL
 🔐 REST APIs & Authentication
-⭐️ Git
-- ...
+⭐️ Git - ...
 
 📌 Projects
 
 • Booking API - coming soon
 • Car Service API
-• Recipe API 
-- ...
+• Recipe API - ...
 
 📚 Currently learning
 
 • Advanced FastAPI
 • PostgreSQL
-• Testing
-- ...
+• Testing - ...
