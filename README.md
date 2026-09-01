@@ -2,17 +2,31 @@ Hi! I'm Yuliia 👋
 
 Junior Python Backend Developer
 
+I'm focused on backend development with Python
+and currently building REST APIs using Django REST Framework
+and FastAPI.
+
+🛠️ Technologies
+
 🐍 Python
 ⚡ FastAPI
 🌐 Django / Django REST Framework
+📞 Aiogram
 🗄️ SQL / PostgreSQL
 🔐 REST APIs & Authentication
+⭐️ Git
+- ...
 
-Currently building backend projects
-and learning more about scalable APIs.
+📌 Projects
 
-📌 Featured projects
-• Booking API
+• Booking API - coming soon
 • Car Service API
 • Recipe API 
-...
+- ...
+
+📚 Currently learning
+
+• Advanced FastAPI
+• PostgreSQL
+• Testing
+- ...
