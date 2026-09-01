@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi! I'm Yuliia 👋
 
-<!--
-**Jyblik/Jyblik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Backend Developer
 
-Here are some ideas to get you started:
+🐍 Python
+⚡ FastAPI
+🌐 Django / Django REST Framework
+🗄️ SQL / PostgreSQL
+🔐 REST APIs & Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building backend projects
+and learning more about scalable APIs.
+
+📌 Featured projects
+• Booking API
+• Car Service API
+• Recipe API 
+...
